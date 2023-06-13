@@ -1,0 +1,6 @@
+#!/bin/bash
+
+
+ls -a; pwd; echo "Hello"
+
+
