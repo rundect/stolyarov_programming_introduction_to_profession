@@ -1,1 +1,2 @@
-# stolyarov_programming_introduction_to_profession
+### Андрей Викторович Столяров: Программирование: введение в профессию  
+http://www.stolyarov.info/books/programming_intro  
